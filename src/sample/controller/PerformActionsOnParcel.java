@@ -1,7 +1,7 @@
-package main.controller;
+package sample.controller;
 
-import main.model.Plant;
-import main.model.Resources;
+import sample.model.Plant;
+
 import java.util.ArrayList;
 
 public class PerformActionsOnParcel {

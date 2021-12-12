@@ -1,6 +1,6 @@
-package main.controller;
+package sample.controller;
 
-import main.model.Plant;
+import sample.model.Plant;
 import java.util.ArrayList;
 
 public class PlantManagement {

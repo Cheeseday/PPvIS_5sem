@@ -1,6 +1,6 @@
-package main.controller;
+package sample.controller;
 
-import main.model.User;
+import sample.model.User;
 import java.util.ArrayList;
 
 public class UserManagement {

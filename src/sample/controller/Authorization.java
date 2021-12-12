@@ -1,4 +1,4 @@
-package main.controller;
+package sample.controller;
 
 public class Authorization {
     public void authorization(String name, String password){

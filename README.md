@@ -1,4 +1,4 @@
-## Laboratory work number 1
+## First laboratory work
 ____
 
  Completed: Kirilushkin Aleksandr, group 921702

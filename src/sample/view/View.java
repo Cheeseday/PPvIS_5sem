@@ -1,7 +1,9 @@
 package sample.view;
 
 public class View {
-    public void initialization(){}
+    public View(){
+        //initialization
+    }
 
     public void createStartWindowView(){}
 }
